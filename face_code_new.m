@@ -1,7 +1,7 @@
 % preapering data base %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % dio = digitalio('parallel','LPT1');
 % lines = addlines(dio,0:7,'out');
-% 
+% cahnge 
 clear all
 close all
 clc
